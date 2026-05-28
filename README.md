@@ -10,10 +10,10 @@ Bu proje, C# Windows Forms ve SQL Server kullanılarak geliştirilmiş bir hasta
 - Hastane istatistiklerini görüntüleme
 
 ## Kullanılan Teknolojiler
--C#
--Windows Forms
--SQL Server
--ADO.NET
+- C#
+- Windows Forms
+- SQL Server
+- ADO.NET
 
 ## Veritabanı
 Veritabanı oluşturmak için "hastane randevu sistemi.sql" dosyasını çalıştırmanız yeterlidir.
