@@ -7,7 +7,7 @@ Bu proje, C# Windows Forms ve SQL Server kullanılarak geliştirilmiş bir hasta
 - Doktora yorum yapma ve puan verme
 - Doktor profil ve yorumlarını görüntüleme
 - Doktor ekleme, düzenleme ve silme işlemleri
-- Hastane istatistiklerini görüntüleme
+- Hastane istatistiklerini görme
 
 ## Kullanılan Teknolojiler
 - C#
