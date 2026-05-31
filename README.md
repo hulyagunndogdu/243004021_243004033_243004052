@@ -16,7 +16,7 @@ Bu proje, C# Windows Forms ve SQL Server kullanılarak geliştirilmiş bir hasta
 - ADO.NET
 
 ## Veritabanı
-Veritabanı oluşturmak için hastane_randevu_sistemi.sql dosyasını çalıştırmanız yeterlidir.
+Veritabanı oluşturmak için hastane_randevu_sistemi.sql adlı dosyayı çalıştırmanız yeterlidir.
 
 ## Tanıtım Videosu
 Proje tanıtım videosuna repository içerisinde bulunan Proje_Tanıtım_Videoları.mp4 dosyasından ulaşabilirsiniz
